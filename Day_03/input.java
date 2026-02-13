@@ -11,5 +11,5 @@ public class input {
        System.out.println(word);
        System.out.println(input);
        System.out.println(num);
-}
+ }
 }

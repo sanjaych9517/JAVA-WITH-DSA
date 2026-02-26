@@ -1,5 +1,3 @@
-package Day10Array_Part_02 ;
-
 public class MaxSubArraySum {
     public static void maxSubArraySum(int numbers[]){
         int maxSum = Integer.MIN_VALUE;

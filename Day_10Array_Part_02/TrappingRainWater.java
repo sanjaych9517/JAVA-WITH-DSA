@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class TrappingRainWater {
     public static int TrappedRainWater(int height []) {

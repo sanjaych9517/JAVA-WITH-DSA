@@ -1,3 +1,4 @@
+package Day_10Array_Part_01;
 public class kadans {
    public static void kadans(int numbers []){
      int maxSum = Integer.MIN_VALUE;

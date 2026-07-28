@@ -5,4 +5,7 @@
 # ue upload our day 5 course.
 # upload day 6.
 # we upload our day 7 & day 8 lecture
+# we complete array
+# we finish our string
+# we start Recursion Day 16
 

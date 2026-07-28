@@ -1,6 +1,6 @@
 package Day_16_recursionBasic_part_01;
 
-// write a programm to find first occurance in java
+// write a programm to find first occurance in a array
 public class FirstOccurance {
     public static int firstoccurence(int arr[], int i, int key) {
         if (i == arr.length - 1) {

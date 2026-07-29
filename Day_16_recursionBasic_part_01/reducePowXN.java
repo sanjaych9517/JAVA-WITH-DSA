@@ -1,3 +1,4 @@
+package Day_16_recursionBasic_part_01;
 public class reducePowXN {
 
     public static int reducePowXN(int a, int n){

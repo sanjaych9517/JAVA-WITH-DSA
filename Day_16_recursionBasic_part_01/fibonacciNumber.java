@@ -13,4 +13,4 @@ public class fibonacciNumber {
         System.out.println(feb(9));
     }
 }
-// time complexity O(N)  && space complexity O(2 ke power N) i.e exponential 
+// time complexity O(2 ke power N)  && space complexity O(N)  i.e exponential 
